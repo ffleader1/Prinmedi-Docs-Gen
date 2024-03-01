@@ -7,4 +7,4 @@ bookFlatSection: true
 # Danh sách sản phẩm
 Chúng tôi hiện hỗ trợ các sản phẩm sau
 
-- [Sách]({{< relref "docs/product/sach/" >}})
+- [Sách]({{< relref "docs/sach/" >}})

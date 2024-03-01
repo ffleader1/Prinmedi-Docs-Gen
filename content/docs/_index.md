@@ -11,4 +11,4 @@ type: docs
 
 Chúng tôi hiện đã có tài liệu về những sản phẩm sau:
 
-- [Sách]({{< relref "docs/product/sach/" >}})
+- [Sách]({{< relref "docs/sach/" >}})

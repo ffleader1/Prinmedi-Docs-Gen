@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'Tài Liệu Tiêu Chuyển In'
 theme = 'hugo-book'
 language-code="en-US"
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
