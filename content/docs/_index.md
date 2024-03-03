@@ -7,8 +7,10 @@ title: Tài Liệu Sản Phẩm
 type: docs
 ---
 
-# Danh sách sản phẩm hỗ trợ
+## Danh sách sản phẩm
 
-Chúng tôi hiện đã có tài liệu về những sản phẩm sau:
+Chúng tôi hiện đã có tài liệu về những sản phẩm dưới đây.
 
 - [Sách]({{< relref "docs/sach/" >}})
+
+
