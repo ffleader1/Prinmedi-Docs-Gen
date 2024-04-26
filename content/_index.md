@@ -3,39 +3,19 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Lời Mở Đầu
 
-{{< columns >}}
-## Astris ipse furtiva
+## Giới thiệu về ngành in ấn
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Ngành in ấn đóng vai trò quan trọng trong đời sống xã hội, là cầu nối giữa tri thức, thông tin và con người. Ngành in cung cấp các sản phẩm đa dạng như sách báo, tạp chí, tài liệu quảng cáo, bao bì, nhãn mác,... phục vụ mọi lĩnh vực của đời số
+## Lý do thực hiện tài liệu
 
-<--->
+Tài liệu này được thực hiện nhằm mục đích cung cấp cho người đọc những thông tin cơ bản về Tài Liệu Tiêu Chuẩn In, bao gồm các sản phẩm in, phương pháp gia công, các loại máy móc dùng trong công nghiệp in, các thông số để in và cho máy móc,...
 
-## Suis quot vota
+## Đối tượng sử dụng
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+Tài liệu này hướng đến những đối tượng sau:
+- Sinh viên ngành in ấn 
+- Cán bộ kỹ thuật, quản lý trong ngành in ấn 
+- Những người quan tâm đến lĩnh vực in ấn
 
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?

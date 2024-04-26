@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Tài Liệu Tiêu Chuyển In'
+title = 'Tài Liệu Tiêu Chuẩn In'
 theme = 'hugo-book'
 language-code="en-US"
 
