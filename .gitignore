@@ -1,7 +1,7 @@
 .idea
 public
 
-content/_index.md
-content/docs/*
-!content/docs/example
-!content/docs/shortcodes
+#content/_index.md
+#content/docs/*
+#!content/docs/example
+#!content/docs/shortcodes
