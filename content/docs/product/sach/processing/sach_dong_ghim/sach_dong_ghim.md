@@ -2,34 +2,33 @@
 weight: 1
 type: docs
 title: Công Thức
-url: /sach/khau_chi_bia_keo_nhiet
+url: /sach/sach_dong_ghim
 ---
 
-# Khâu chỉ bìa keo nhiệt
+# Đóng Ghim
 
 1. Giới thiệu:
 
-Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, sử dụng keo nhiệt để gắn bìa sách vào phần ruột đã được khâu chỉ. Phương pháp này mang đến độ bền cao, thẩm mỹ tốt và phù hợp cho nhiều loại sách khác nhau.
+Đóng ghim là phương pháp gia công sách đơn giản và phổ biến, sử dụng ghim (kim bấm) để kết nối các tờ giấy lại với nhau. Phương pháp này thường được áp dụng cho các ấn phẩm có số lượng trang ít, như brochure, tài liệu quảng cáo, tạp chí mỏng, hoặc sách nhỏ.
 
 2. Quy trình gia công:
 
-    In ấn: Bìa sách và ruột sách được in ấn riêng biệt theo yêu cầu.
-    Khâu chỉ: Ruột sách được xếp chồng và khâu gáy bằng chỉ.
-    Bôi keo: Keo nhiệt được bôi lên gáy sách đã được khâu.
-    Đóng bìa: Bìa sách được gắn vào gáy sách bằng keo nhiệt.
-    Cắt và hoàn thiện: Sách được cắt thành phẩm theo kích thước mong muốn và hoàn thiện các công đoạn sau cùng.
+    In ấn: Bìa và ruột sách được in ấn riêng biệt theo yêu cầu.
+    Cấn giữa: Toàn bộ ấn phẩm (cả bìa và ruột) được gấp lại theo đường giữa.
+    Đóng ghim: Sử dụng máy đóng ghim (dập ghim) để bấm ghim (thường là 2 ghim) dọc theo đường gấp giữa, cố định các tờ giấy lại với nhau.
+    Cắt xén (nếu cần): Cắt các cạnh của ấn phẩm để đạt kích thước mong muốn và tạo sự đồng đều.
 
 3. Ưu điểm:
 
-    Độ bền cao: Khâu chỉ giúp tăng độ bền cho gáy sách, keo nhiệt bám dính tốt, tạo sự liên kết chắc chắn giữa bìa và ruột.
-    Thẩm mỹ: Bìa sách được gắn phẳng phiu, đẹp mắt, mang lại sự chuyên nghiệp cho sản phẩm.
-    Phù hợp nhiều loại sách: Phương pháp này có thể áp dụng cho nhiều loại sách khác nhau như sách giáo khoa, sách tham khảo, tiểu thuyết, v.v.
-    Tiết kiệm chi phí: So với các phương pháp đóng sách khác, khâu chỉ bìa keo nhiệt có chi phí hợp lý hơn.
+    Nhanh chóng và đơn giản: Quy trình gia công đóng ghim rất nhanh chóng và không yêu cầu nhiều công đoạn phức tạp.
+    Chi phí thấp: Đây là một trong những phương pháp gia công sách tiết kiệm chi phí nhất.
+    Phù hợp với số lượng trang ít: Đóng ghim lý tưởng cho các ấn phẩm có số lượng trang không quá nhiều.
 
 4. Nhược điểm:
 
-    Thời gian gia công: Quá trình gia công có thể lâu hơn so với một số phương pháp khác.
-    Khó chỉnh sửa: Sau khi hoàn thiện, việc chỉnh sửa nội dung sách là rất khó khăn.
+    Độ bền không cao: Ghim có thể bị bung hoặc long ra nếu sách được sử dụng nhiều hoặc không được bảo quản cẩn thận.
+    Không phù hợp với sách dày: Phương pháp này không thích hợp cho sách có số lượng trang lớn vì ghim không đủ chắc chắn để giữ các trang sách dày lại với nhau.
+    Tính thẩm mỹ hạn chế: Đóng ghim không mang lại vẻ ngoài sang trọng và chuyên nghiệp như các phương pháp đóng sách khác.
 
 
 # Thông Tin Tính Toán
@@ -736,19 +735,19 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Collating}{{< /katex >}}: Thời gian chuẩn bị bắt tay sách (Phút)<br>
 
   {{< /details >}}
-- **Thời gian khâu chỉ**
-  * *Công thức tính thời gian khâu chỉ*
+- **Thời gian đóng ghim**
+  * *Công thức tính thời gian đóng ghim*
   * *Đơn vị*: Phút
-  * *Mã*: CHRTGKC
-  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}
-  * *Công thức* :{{< katex >}}\lceil{((\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf}) / \mathcal{C}\mathscr{i}Det_{SewingachineSpd}) * \lceil{\mathcal{M}\mathscr{i}{\Sigma}pg_{content}/ \mathcal{M}\mathscr{i}Imp_{content}}\rceil + \mathcal{C}\mathscr{i}Det_{SewingMachinePrep}}\rceil{{< /katex >}}
+  * *Mã*: CHRTGH
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}
+  * *Công thức* :{{< katex >}}\lceil{((\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf}) / \mathcal{C}\mathscr{i}Det_{StapleMachineSpd}) * \lceil{\mathcal{M}\mathscr{i}{\Sigma}pg_{content}/ \mathcal{M}\mathscr{i}Imp_{content}}\rceil + \mathcal{C}\mathscr{i}Det_{StapleMachinePrep}}\rceil{{< /katex >}}
 
   {{< details "Thành Phần" >}}{{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: Số lượng sản phẩm (Bản)<br>
 {{< katex >}}\mathcal{S}\mathscr{i}O_{wf}{{< /katex >}}: Hệ số bù hao (Đơn vị)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingachineSpd}{{< /katex >}}: Tốc độ máy khâu chỉghim (Tờ/Giờ)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Det_{StapleMachineSpd}{{< /katex >}}: Tốc độ máy đóng ghim (Tờ/Giờ)<br>
 {{< katex >}}\mathcal{M}\mathscr{i}{\Sigma}pg_{content}{{< /katex >}}: Số trang ruột mỗi cuốn sách (Trang)<br>
 {{< katex >}}\mathcal{M}\mathscr{i}Imp_{content}{{< /katex >}}: Kiểu bình - Ruột (Đơn vị)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingMachinePrep}{{< /katex >}}: Thời gian chuẩn bị máy khâu chỉ (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Det_{StapleMachinePrep}{{< /katex >}}: Thời gian chuẩn bị máy đóng ghim (Phút)<br>
 
   {{< /details >}}
 - **Thời gian vào bìa, xen 3 mặt**

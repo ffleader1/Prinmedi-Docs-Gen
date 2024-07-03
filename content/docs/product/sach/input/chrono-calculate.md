@@ -133,6 +133,12 @@ Dưới đây là những kết quả tính toán liên quan tới giá trị th
   * *Mã*: CHRTGKC
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}
 
+- **Thời gian đóng ghim**
+  * *Công thức tính thời gian đóng ghim*
+  * *Đơn vị*: Phút
+  * *Mã*: CHRTGH
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}
+
 - **Thời gian vào bìa, xen 3 mặt**
   * *Thời gian vào bìa (casing-in) và xén 3 mặt (trimming three sides)*
   * *Đơn vị*: Phút

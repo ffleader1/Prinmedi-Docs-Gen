@@ -2,14 +2,14 @@
 bookFlatSection: true
 weight: 1
 type: docs
-title: Đơn Mẫu Khâu Chỉ Bìa Keo Nhiệt 1
-url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
+title: Đơn Mẫu Sách Đóng Ghim 1
+url: /sach/sach_dong_ghim/SAMP.PC_01002.UvOUZWrLho
 ---
 
 
-# Đơn Mẫu Khâu Chỉ Bìa Keo Nhiệt 1
+# Đơn Mẫu Sách Đóng Ghim 1
 
-Đơn mẫu khâu chỉ bìa keo nhiệt
+Đơn mẫu đóng ghim
 
 ## ĐƠN GIÁ VÀ HẰNG SỐ
 * Đơn giá giấy - {{< katex >}}\mathcal{S}\mathscr{i}M_{paper}{{< /katex >}}: 21,000,000 VNĐ/Tấn
@@ -78,10 +78,10 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Số mặt in bìa - {{< katex >}}\mathcal{M}\mathscr{i}Nsd_{cover}{{< /katex >}}: 1 Đơn vị
 
 
-* Chiều dài khổ thành phẩm - {{< katex >}}\mathcal{M}\mathscr{i}Sz_{length}{{< /katex >}}: 20.5 cm
+* Chiều dài khổ thành phẩm - {{< katex >}}\mathcal{M}\mathscr{i}Sz_{length}{{< /katex >}}: 24 cm
 
 
-* Chiều rộng khổ thành phẩm - {{< katex >}}\mathcal{M}\mathscr{i}Sz_{width}{{< /katex >}}: 14.5 cm
+* Chiều rộng khổ thành phẩm - {{< katex >}}\mathcal{M}\mathscr{i}Sz_{width}{{< /katex >}}: 16 cm
 
 
 * Kiểu bình - Bìa - {{< katex >}}\mathcal{M}\mathscr{i}Imp_{cover}{{< /katex >}}: 32 Đơn vị
@@ -93,7 +93,7 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Tỉ lệ chữ/ảnh trong file in - {{< katex >}}\mathcal{M}\mathscr{i}TI{{< /katex >}}: 9 Đơn vị
 
 
-* Số lượng sản phẩm - {{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: 20,000 Bản
+* Số lượng sản phẩm - {{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: 35,000 Bản
 
 
 * Khổ máy in bìa - dài - {{< katex >}}\mathcal{M}\mathscr{c}PrterCov_{length}{{< /katex >}}: 102 cm
@@ -234,16 +234,16 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Độ dày gáy sách - {{< katex >}}\mathcal{M}\mathscr{c}Bk_{length}{{< /katex >}}: 0.87 cm
 
 
-* Khổ tờ in ruột - Chiều dài - {{< katex >}}\mathcal{M}\mathscr{c}SR_{length}{{< /katex >}}: 85 cm
+* Khổ tờ in ruột - Chiều dài - {{< katex >}}\mathcal{M}\mathscr{c}SR_{length}{{< /katex >}}: 99 cm
 
 
-* Khổ tờ in ruột - Chiều rộng - {{< katex >}}\mathcal{M}\mathscr{c}SR_{width}{{< /katex >}}: 62 cm
+* Khổ tờ in ruột - Chiều rộng - {{< katex >}}\mathcal{M}\mathscr{c}SR_{width}{{< /katex >}}: 68 cm
 
 
-* Khổ tờ in bìa - Chiều dài - {{< katex >}}\mathcal{M}\mathscr{c}SB_{length}{{< /katex >}}: 85 cm
+* Khổ tờ in bìa - Chiều dài - {{< katex >}}\mathcal{M}\mathscr{c}SB_{length}{{< /katex >}}: 99 cm
 
 
-* Khổ tờ in bìa - Chiều rộng - {{< katex >}}\mathcal{M}\mathscr{c}SB_{width}{{< /katex >}}: 61 cm
+* Khổ tờ in bìa - Chiều rộng - {{< katex >}}\mathcal{M}\mathscr{c}SB_{width}{{< /katex >}}: 67 cm
 
 
 * Số lượng bản in ruột - {{< katex >}}\mathcal{M}\mathscr{c}PC_{content}{{< /katex >}}: 16 Đơn vị
@@ -255,7 +255,7 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Khối lượng giấy in bìa - {{< katex >}}\mathcal{M}\mathscr{c}PW{cover}{{< /katex >}}: 0 Tấn
 
 
-* Khối lượng giấy in ruột - {{< katex >}}\mathcal{M}\mathscr{c}PW{content}{{< /katex >}}: 0 Tấn
+* Khối lượng giấy in ruột - {{< katex >}}\mathcal{M}\mathscr{c}PW{content}{{< /katex >}}: 0.01 Tấn
 
 
 * Định lượng mực in ruột - {{< katex >}}\mathcal{M}\mathscr{c}IQ{cover}{{< /katex >}}: 5 kg/1 triệu trang
@@ -267,13 +267,13 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Khối lượng mực in bìa - {{< katex >}}\mathcal{M}\mathscr{c}IW{cover}{{< /katex >}}: 1 kg
 
 
-* Khối lượng mực in ruột - {{< katex >}}\mathcal{M}\mathscr{c}IW{content}{{< /katex >}}: 16 kg
+* Khối lượng mực in ruột - {{< katex >}}\mathcal{M}\mathscr{c}IW{content}{{< /katex >}}: 35 kg
 
 
-* Số lượng tờ in bìa - {{< katex >}}\mathcal{M}\mathscr{c}PN{cover}{{< /katex >}}: 1,250 tờ
+* Số lượng tờ in bìa - {{< katex >}}\mathcal{M}\mathscr{c}PN{cover}{{< /katex >}}: 2,188 tờ
 
 
-* Số lượng tờ in ruột - {{< katex >}}\mathcal{M}\mathscr{c}PN{content}{{< /katex >}}: 78,125 tờ
+* Số lượng tờ in ruột - {{< katex >}}\mathcal{M}\mathscr{c}PN{content}{{< /katex >}}: 136,719 tờ
 
 
 * Hệ số kiểu bình bìa - {{< katex >}}\mathcal{M}\mathscr{c}imp_mod{cover}{{< /katex >}}: 125 đơn vị
@@ -288,49 +288,49 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Hệ số pha cắt ruột - {{< katex >}}\mathcal{M}\mathscr{c}knife_phase_mod{content}{{< /katex >}}: 0.5 đơn vị
 
 
-* Khổ màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{width}{{< /katex >}}: 59.4 cm
+* Khổ màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{width}{{< /katex >}}: 65.4 cm
 
 
-* Độ dài màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{length}{{< /katex >}}: 1,062.5 m
+* Độ dài màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{length}{{< /katex >}}: 2,166.12 m
 
 
-* Diện tích màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{length}{{< /katex >}}: 6,311,250 cm²
+* Diện tích màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Fl{length}{{< /katex >}}: 14,166,424.8 cm²
 
 
-* Chi phí giấy - {{< katex >}}\mathcal{M}\mathscr{c}Prc{paper}{{< /katex >}}: 210,000 VNĐ
+* Chi phí giấy - {{< katex >}}\mathcal{M}\mathscr{c}Prc{paper}{{< /katex >}}: 273,000 VNĐ
 
 
 * Chi phí bản in - {{< katex >}}\mathcal{M}\mathscr{c}Prc{impression}{{< /katex >}}: 1,167,872 VNĐ
 
 
-* Chi phí mực in - {{< katex >}}\mathcal{M}\mathscr{c}Prc{ink}{{< /katex >}}: 31,440,000 VNĐ
+* Chi phí mực in - {{< katex >}}\mathcal{M}\mathscr{c}Prc{ink}{{< /katex >}}: 67,920,000 VNĐ
 
 
-* Chi phí màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Prc{film}{{< /katex >}}: 1,893,375 VNĐ
+* Chi phí màng bìa - {{< katex >}}\mathcal{M}\mathscr{c}Prc{film}{{< /katex >}}: 4,249,928 VNĐ
 
 
-* Chi phí nguyên vật liệu - {{< katex >}}\mathcal{M}\mathscr{c}Prc{material}{{< /katex >}}: 34,711,247 VNĐ
+* Chi phí nguyên vật liệu - {{< katex >}}\mathcal{M}\mathscr{c}Prc{material}{{< /katex >}}: 73,610,800 VNĐ
 
 
 * Chi phí chế bản - {{< katex >}}\mathcal{M}\mathscr{c}Prc{engraving}{{< /katex >}}: 11,678,720 VNĐ
 
 
-* Chi phí in bìa sách - {{< katex >}}\mathcal{M}\mathscr{c}Prc{cover}{{< /katex >}}: 1,620,000 VNĐ
+* Chi phí in bìa sách - {{< katex >}}\mathcal{M}\mathscr{c}Prc{cover}{{< /katex >}}: 2,070,240 VNĐ
 
 
-* Chi phí in ruột sách - {{< katex >}}\mathcal{M}\mathscr{c}Prc{content}{{< /katex >}}: 13,940,000 VNĐ
+* Chi phí in ruột sách - {{< katex >}}\mathcal{M}\mathscr{c}Prc{content}{{< /katex >}}: 23,315,040 VNĐ
 
 
-* Chi phí gia công - {{< katex >}}\mathcal{M}\mathscr{c}Prc{manufacture}{{< /katex >}}: 400,000,000 VNĐ
+* Chi phí gia công - {{< katex >}}\mathcal{M}\mathscr{c}Prc{manufacture}{{< /katex >}}: 700,000,000 VNĐ
 
 
-* Chi phí sản xuất - {{< katex >}}\mathcal{M}\mathscr{c}Prc{production}{{< /katex >}}: 427,238,720 VNĐ
+* Chi phí sản xuất - {{< katex >}}\mathcal{M}\mathscr{c}Prc{production}{{< /katex >}}: 737,064,000 VNĐ
 
 
-* Chi phí đơn hàng - {{< katex >}}\mathcal{M}\mathscr{c}Prc{order}{{< /katex >}}: 461,949,967 VNĐ
+* Chi phí đơn hàng - {{< katex >}}\mathcal{M}\mathscr{c}Prc{order}{{< /katex >}}: 810,674,800 VNĐ
 
 
-* Đơn giá một sản phẩm - {{< katex >}}\mathcal{M}\mathscr{c}Prc{single}{{< /katex >}}: 23,098 VNĐ
+* Đơn giá một sản phẩm - {{< katex >}}\mathcal{M}\mathscr{c}Prc{single}{{< /katex >}}: 23,163 VNĐ
 
 
 
@@ -363,52 +363,52 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Tổng thời gian chế bản - {{< katex >}}\mathcal{C}{\Sigma}PPR{{< /katex >}}: 31 Giờ 39 Phút
 
 
-* Thời gian in bìa - {{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: 6 Phút
+* Thời gian in bìa - {{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: 11 Phút
 
 
-* Thời gian in ruột - {{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: 6 Giờ 1 Phút
+* Thời gian in ruột - {{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: 11 Giờ 32 Phút
 
 
 * Thời gian in khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{printing}{{< /katex >}}: 30 Phút
 
 
-* Tổng thời gian in - {{< katex >}}\mathcal{C}{\Sigma}PRT{{< /katex >}}: 7 Giờ 37 Phút
+* Tổng thời gian in - {{< katex >}}\mathcal{C}{\Sigma}PRT{{< /katex >}}: 11 Giờ 13 Phút
 
 
-* Thời gian cán màng - {{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: 25 Phút
+* Thời gian cán màng - {{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: 35 Phút
 
 
-* Thời gian pha cắt bìa - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: 21 Phút
+* Thời gian pha cắt bìa - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: 28 Phút
 
 
-* Thời gian pha cắt ruột - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: 17 Phút
+* Thời gian pha cắt ruột - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: 30 Phút
 
 
-* Thời gian gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 51 Giờ 50 Phút
+* Thời gian gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 87 Giờ 27 Phút
 
 
-* Thời gian bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 10 Giờ 15 Phút
+* Thời gian bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 18 Giờ 45 Phút
 
 
-* Thời gian khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 2 Giờ 35 Phút
+* Thời gian khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 0 Phút
 
 
 * Thời gian đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 0 Phút
 
 
-* Thời gian vào bìa, xen 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}: 10 Giờ 15 Phút
+* Thời gian vào bìa, xen 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}: 18 Giờ 45 Phút
 
 
-* Thời gian đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 8 Giờ 29 Phút
+* Thời gian đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 15 Giờ 51 Phút
 
 
 * Thời gian hoàn thiện khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: 30 Phút
 
 
-* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 83 Giờ 57 Phút
+* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 140 Giờ 51 Phút
 
 
-* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 120 Giờ 13 Phút
+* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 182 Giờ 43 Phút
 
 
 
