@@ -139,11 +139,23 @@ Dưới đây là những kết quả tính toán liên quan tới giá trị th
   * *Mã*: CHRTGH
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}
 
-- **Thời gian vào bìa, xen 3 mặt**
-  * *Thời gian vào bìa (casing-in) và xén 3 mặt (trimming three sides)*
+- **Thời gian vào keo**
+  * *Thời gian vào keo*
   * *Đơn vị*: Phút
-  * *Mã*: CHRTGBVX
-  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}
+  * *Mã*: CHRTGVK
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}
+
+- **Thời gian vào bìa**
+  * *Thời gian vào keo*
+  * *Đơn vị*: Phút
+  * *Mã*: CHRTGV
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}
+
+- **Thời gian xén 3 mặt**
+  * *Thời gian xén 3 mặt*
+  * *Đơn vị*: Phút
+  * *Mã*: CHRTGXEN
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}
 
 - **Thời gian đóng gói**
   * *Thời gian đóng gói*

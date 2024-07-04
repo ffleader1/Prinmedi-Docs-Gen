@@ -3,7 +3,7 @@ bookFlatSection: true
 weight: 1
 type: docs
 title: Đơn Mẫu Khâu Chỉ Bìa Keo Nhiệt 1
-url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
+url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 ---
 
 
@@ -207,10 +207,22 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Tốc độ máy đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Det_{StapleMachineSpd}{{< /katex >}}: 4,000 Tờ/Giờ
 
 
-* Thời gian chuẩn bị vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{CastTrim}{{< /katex >}}: 15 Phút
+* Thời gian chuẩn bị vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Glue}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{CastTrim}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Glue}{{< /katex >}}: 1,000 Cuốn/Giờ
+
+
+* Thời gian chuẩn bị vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Covering}{{< /katex >}}: 15 Phút
+
+
+* Tốc độ vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Covering}{{< /katex >}}: 1,000 Cuốn/Giờ
+
+
+* Thời gian chuẩn bị vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Trim}{{< /katex >}}: 15 Phút
+
+
+* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Trim}{{< /katex >}}: 1,000 Cuốn/Giờ
 
 
 * Số sách mỗi gói - {{< katex >}}\mathcal{C}\mathscr{i}NoBookPerPack{{< /katex >}}: 50 Cuốn
@@ -396,7 +408,13 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Thời gian đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 0 Phút
 
 
-* Thời gian vào bìa, xen 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}: 10 Giờ 15 Phút
+* Thời gian vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 10 Giờ 15 Phút
+
+
+* Thời gian vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 10 Giờ 15 Phút
+
+
+* Thời gian xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 10 Giờ 15 Phút
 
 
 * Thời gian đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 8 Giờ 29 Phút
@@ -405,10 +423,10 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.DnL11pJdyh
 * Thời gian hoàn thiện khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: 30 Phút
 
 
-* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 83 Giờ 57 Phút
+* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 103 Giờ 27 Phút
 
 
-* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 120 Giờ 13 Phút
+* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 141 Giờ 43 Phút
 
 
 

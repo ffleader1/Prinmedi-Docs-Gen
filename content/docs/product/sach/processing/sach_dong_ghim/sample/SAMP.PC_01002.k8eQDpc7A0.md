@@ -3,7 +3,7 @@ bookFlatSection: true
 weight: 1
 type: docs
 title: Đơn Mẫu Sách Đóng Ghim 1
-url: /sach/sach_dong_ghim/SAMP.PC_01002.UvOUZWrLho
+url: /sach/sach_dong_ghim/SAMP.PC_01002.k8eQDpc7A0
 ---
 
 
@@ -207,10 +207,22 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.UvOUZWrLho
 * Tốc độ máy đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Det_{StapleMachineSpd}{{< /katex >}}: 4,000 Tờ/Giờ
 
 
-* Thời gian chuẩn bị vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{CastTrim}{{< /katex >}}: 15 Phút
+* Thời gian chuẩn bị vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Glue}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{CastTrim}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Glue}{{< /katex >}}: 1,000 Cuốn/Giờ
+
+
+* Thời gian chuẩn bị vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Covering}{{< /katex >}}: 15 Phút
+
+
+* Tốc độ vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Covering}{{< /katex >}}: 1,000 Cuốn/Giờ
+
+
+* Thời gian chuẩn bị vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Trim}{{< /katex >}}: 15 Phút
+
+
+* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Trim}{{< /katex >}}: 1,000 Cuốn/Giờ
 
 
 * Số sách mỗi gói - {{< katex >}}\mathcal{C}\mathscr{i}NoBookPerPack{{< /katex >}}: 50 Cuốn
@@ -393,10 +405,16 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.UvOUZWrLho
 * Thời gian khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 0 Phút
 
 
-* Thời gian đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 0 Phút
+* Thời gian đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 55 Phút
 
 
-* Thời gian vào bìa, xen 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}: 18 Giờ 45 Phút
+* Thời gian vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 0 Phút
+
+
+* Thời gian vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 18 Giờ 45 Phút
+
+
+* Thời gian xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 18 Giờ 45 Phút
 
 
 * Thời gian đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 15 Giờ 51 Phút
@@ -405,10 +423,10 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.UvOUZWrLho
 * Thời gian hoàn thiện khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: 30 Phút
 
 
-* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 140 Giờ 51 Phút
+* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 159 Giờ 31 Phút
 
 
-* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 182 Giờ 43 Phút
+* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 200 Giờ 23 Phút
 
 
 

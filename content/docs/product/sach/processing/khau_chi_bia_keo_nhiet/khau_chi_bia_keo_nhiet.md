@@ -751,17 +751,43 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingMachinePrep}{{< /katex >}}: Thời gian chuẩn bị máy khâu chỉ (Phút)<br>
 
   {{< /details >}}
-- **Thời gian vào bìa, xen 3 mặt**
-  * *Thời gian vào bìa (casing-in) và xén 3 mặt (trimming three sides)*
+- **Thời gian vào keo**
+  * *Thời gian vào keo*
   * *Đơn vị*: Phút
-  * *Mã*: CHRTGBVX
-  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}
-  * *Công thức* :{{< katex >}}\lceil{(\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf} * 60) / \mathcal{C}\mathscr{i}Det_{CastTrim} + \mathcal{C}\mathscr{i}Prep_{CastTrim}}\rceil{{< /katex >}}
+  * *Mã*: CHRTGVK
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}
+  * *Công thức* :{{< katex >}}\lceil{(\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf} * 60) / \mathcal{C}\mathscr{i}Det_{Glue} + \mathcal{C}\mathscr{i}Prep_{Glue}}\rceil{{< /katex >}}
 
   {{< details "Thành Phần" >}}{{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: Số lượng sản phẩm (Bản)<br>
 {{< katex >}}\mathcal{S}\mathscr{i}O_{wf}{{< /katex >}}: Hệ số bù hao (Đơn vị)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Det_{CastTrim}{{< /katex >}}: Tốc độ vào bìa, xén 3 mặt (Cuốn/Giờ)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Prep_{CastTrim}{{< /katex >}}: Thời gian chuẩn bị vào bìa, xén 3 mặt (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Det_{Glue}{{< /katex >}}: Tốc độ vào keo (Cuốn/Giờ)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Prep_{Glue}{{< /katex >}}: Thời gian chuẩn bị vào keo (Phút)<br>
+
+  {{< /details >}}
+- **Thời gian vào bìa**
+  * *Thời gian vào keo*
+  * *Đơn vị*: Phút
+  * *Mã*: CHRTGV
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}
+  * *Công thức* :{{< katex >}}\lceil{(\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf} * 60) / \mathcal{C}\mathscr{i}Det_{Covering} + \mathcal{C}\mathscr{i}Prep_{Covering}}\rceil{{< /katex >}}
+
+  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: Số lượng sản phẩm (Bản)<br>
+{{< katex >}}\mathcal{S}\mathscr{i}O_{wf}{{< /katex >}}: Hệ số bù hao (Đơn vị)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Det_{Covering}{{< /katex >}}: Tốc độ vào bìa (Cuốn/Giờ)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Prep_{Covering}{{< /katex >}}: Thời gian chuẩn bị vào bìa (Phút)<br>
+
+  {{< /details >}}
+- **Thời gian xén 3 mặt**
+  * *Thời gian xén 3 mặt*
+  * *Đơn vị*: Phút
+  * *Mã*: CHRTGXEN
+  * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}
+  * *Công thức* :{{< katex >}}\lceil{(\mathcal{M}\mathscr{i}C_{copies} * \mathcal{S}\mathscr{i}O_{wf} * 60) / \mathcal{C}\mathscr{i}Det_{Trim} + \mathcal{C}\mathscr{i}Prep_{Trim}}\rceil{{< /katex >}}
+
+  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{M}\mathscr{i}C_{copies}{{< /katex >}}: Số lượng sản phẩm (Bản)<br>
+{{< katex >}}\mathcal{S}\mathscr{i}O_{wf}{{< /katex >}}: Hệ số bù hao (Đơn vị)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Det_{Trim}{{< /katex >}}: Tốc độ vào bìa, xén 3 mặt (Cuốn/Giờ)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Prep_{Trim}{{< /katex >}}: Thời gian chuẩn bị vào bìa, xén 3 mặt (Phút)<br>
 
   {{< /details >}}
 - **Thời gian đóng gói**
@@ -792,7 +818,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
   * *Đơn vị*: Phút
   * *Mã*: CHRSMCM
   * *Kí hiệu*: {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}
-  * *Công thức* :{{< katex >}}\mathcal{C}\mathscr{i}Lamination + \mathcal{C}\mathscr{i}KnifePhase_{cover} + \mathcal{C}\mathscr{i}KnifePhase_{content} + \mathcal{C}\mathscr{i}Folding + \mathcal{C}\mathscr{i}Collating + \mathcal{C}\mathscr{i}Sewing + \mathcal{C}\mathscr{i}Stapling + \mathcal{C}\mathscr{i}CastTrim + \mathcal{C}\mathscr{i}Packaging + \mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}
+  * *Công thức* :{{< katex >}}\mathcal{C}\mathscr{i}Lamination + \mathcal{C}\mathscr{i}KnifePhase_{cover} + \mathcal{C}\mathscr{i}KnifePhase_{content} + \mathcal{C}\mathscr{i}Folding + \mathcal{C}\mathscr{i}Collating + \mathcal{C}\mathscr{i}Sewing + \mathcal{C}\mathscr{i}Stapling + \mathcal{C}\mathscr{i}Glue + \mathcal{C}\mathscr{i}Covering + \mathcal{C}\mathscr{i}Trim + \mathcal{C}\mathscr{i}Packaging + \mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}
 
   {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: Thời gian cán màng (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: Thời gian pha cắt bìa (Phút)<br>
@@ -801,7 +827,9 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: Thời gian bắt tay sách (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: Thời gian khâu chỉ (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: Thời gian đóng ghim (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}CastTrim{{< /katex >}}: Thời gian vào bìa, xen 3 mặt (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: Thời gian vào keo (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: Thời gian vào bìa (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: Thời gian xén 3 mặt (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: Thời gian đóng gói (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: Thời gian hoàn thiện khác (Phút)<br>
 
