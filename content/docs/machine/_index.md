@@ -15,11 +15,11 @@ Tài liệu cho các loại máy móc được dùng cho in ấn
 
 Những loại máy móc sau được dùng phổ biến trong in ấn
 
-- [Máy Liên Hoàn Vào Bìa]({{< relref "docs/machine/may_lien_hoan_vao_bia" >}})
 - [Máy Gấp Sách]({{< relref "docs/machine/may_gap_sach" >}})
-- [Máy In Công Nghiệp]({{< relref "docs/machine/may_in_cong_nghiep" >}})
-- [Máy In Kỹ Thuật Số]({{< relref "docs/machine/may_in_ky_thuat_so" >}})
 - [Máy Khâu Chỉ]({{< relref "docs/machine/may_khau_chi" >}})
+- [Máy In Công Nghiệp]({{< relref "docs/machine/may_in_cong_nghiep" >}})
+- [Máy Liên Hoàn Vào Bìa]({{< relref "docs/machine/may_lien_hoan_vao_bia" >}})
 - [Máy Cán Màng]({{< relref "docs/machine/may_can_mang" >}})
+- [Máy In Kỹ Thuật Số]({{< relref "docs/machine/may_in_ky_thuat_so" >}})
 
 

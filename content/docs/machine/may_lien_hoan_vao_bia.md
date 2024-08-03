@@ -13,7 +13,7 @@ Máy Kỵ Mã được sử dụng để đóng các tập sách, tạp chí ho�
 # Thông Số
 
 - **Tốc độ chuẩn bị máy kỵ mã**
-  * *Định mức thời gian chuẩn bị máy liên hoàn vào bìa*
+  * *Định mức thời gian chuẩn bị máy kỹ mã*
   * *Đơn vị*: Phút
 
 - **Tốc độ hoàn thành công việc kỵ mã**

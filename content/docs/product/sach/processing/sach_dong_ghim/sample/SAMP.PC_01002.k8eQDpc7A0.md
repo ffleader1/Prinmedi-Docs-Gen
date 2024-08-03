@@ -348,25 +348,25 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.k8eQDpc7A0
 
 
 ## TíNH TOÁN THỜI GIAN
-* Thời gian soát lỗi, kiểm tra file chữ - {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt}{{< /katex >}}: 46 Phút
+* Soát lỗi, kiểm tra file chữ - {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt}{{< /katex >}}: 46 Phút
 
 
-* Thời gian xử lý ảnh, kiểm tra file ảnh - {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{img}{{< /katex >}}: 6 Phút
+* Xử lý ảnh, kiểm tra file ảnh - {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{img}{{< /katex >}}: 6 Phút
 
 
-* Thời gian dàn trang - {{< katex >}}\mathcal{C}\mathscr{pp}T_{layout}{{< /katex >}}: 25 Giờ 24 Phút
+* Dàn trang - {{< katex >}}\mathcal{C}\mathscr{pp}T_{layout}{{< /katex >}}: 25 Giờ 24 Phút
 
 
-* Thời gian bình bản - {{< katex >}}\mathcal{C}\mathscr{pp}Makeready{{< /katex >}}: 15 Phút
+* Bình bản - {{< katex >}}\mathcal{C}\mathscr{pp}Makeready{{< /katex >}}: 15 Phút
 
 
-* Thời gian in thử - {{< katex >}}\mathcal{C}\mathscr{pp}test_print{{< /katex >}}: 13 Phút
+* In thử - {{< katex >}}\mathcal{C}\mathscr{pp}test_print{{< /katex >}}: 13 Phút
 
 
-* Thời gian RIP - {{< katex >}}\mathcal{C}\mathscr{pp}rip{{< /katex >}}: 2 Giờ 57 Phút
+* RIP - {{< katex >}}\mathcal{C}\mathscr{pp}rip{{< /katex >}}: 2 Giờ 57 Phút
 
 
-* Thời gian ghi hiện bản - {{< katex >}}\mathcal{C}\mathscr{pp}platemaking{{< /katex >}}: 88 Phút
+* Ghi hiện bản - {{< katex >}}\mathcal{C}\mathscr{pp}platemaking{{< /katex >}}: 88 Phút
 
 
 * Thời gian chế bản khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{preprocessing}{{< /katex >}}: 30 Phút
@@ -375,10 +375,10 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.k8eQDpc7A0
 * Tổng thời gian chế bản - {{< katex >}}\mathcal{C}{\Sigma}PPR{{< /katex >}}: 31 Giờ 39 Phút
 
 
-* Thời gian in bìa - {{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: 11 Phút
+* In bìa - {{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: 11 Phút
 
 
-* Thời gian in ruột - {{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: 11 Giờ 32 Phút
+* In ruột - {{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: 11 Giờ 32 Phút
 
 
 * Thời gian in khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{printing}{{< /katex >}}: 30 Phút
@@ -387,37 +387,37 @@ url: /sach/sach_dong_ghim/SAMP.PC_01002.k8eQDpc7A0
 * Tổng thời gian in - {{< katex >}}\mathcal{C}{\Sigma}PRT{{< /katex >}}: 11 Giờ 13 Phút
 
 
-* Thời gian cán màng - {{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: 35 Phút
+* Cán màng - {{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: 35 Phút
 
 
-* Thời gian pha cắt bìa - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: 28 Phút
+* Pha cắt bìa - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: 28 Phút
 
 
-* Thời gian pha cắt ruột - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: 30 Phút
+* Pha cắt ruột - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: 30 Phút
 
 
-* Thời gian gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 87 Giờ 27 Phút
+* Gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 87 Giờ 27 Phút
 
 
-* Thời gian bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 18 Giờ 45 Phút
+* Bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 18 Giờ 45 Phút
 
 
-* Thời gian khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 0 Phút
+* Khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 0 Phút
 
 
-* Thời gian đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 55 Phút
+* Đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 55 Phút
 
 
-* Thời gian vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 0 Phút
+* Vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 0 Phút
 
 
-* Thời gian vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 18 Giờ 45 Phút
+* Vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 18 Giờ 45 Phút
 
 
-* Thời gian xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 18 Giờ 45 Phút
+* Xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 18 Giờ 45 Phút
 
 
-* Thời gian đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 15 Giờ 51 Phút
+* Đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 15 Giờ 51 Phút
 
 
 * Thời gian hoàn thiện khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: 30 Phút

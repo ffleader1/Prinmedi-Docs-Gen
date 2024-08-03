@@ -502,7 +502,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 
   {{< /details >}}
 ### Tính Toán Thời Gian
-- **Thời gian soát lỗi, kiểm tra file chữ**
+- **Soát lỗi, kiểm tra file chữ**
   * *Thời gian soát lỗi, kiểm tra file chữ*
   * *Đơn vị*: Phút
   * *Mã*: CHRKTT
@@ -515,7 +515,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}No_{txt}{{< /katex >}}: Nhân lực soát lỗi, kiểm tra file chữ (Người|Thiết bị)<br>
 
   {{< /details >}}
-- **Thời gian xử lý ảnh, kiểm tra file ảnh**
+- **Xử lý ảnh, kiểm tra file ảnh**
   * *Thời gian xử lý ảnh, kiểm tra file ảnh*
   * *Đơn vị*: Phút
   * *Mã*: CHRKTI
@@ -528,7 +528,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}No_{img}{{< /katex >}}: Nhân lực xử lý ảnh, kiểm tra file ảnh (Người|Thiết bị)<br>
 
   {{< /details >}}
-- **Thời gian dàn trang**
+- **Dàn trang**
   * *Thời gian dàn trang (layout)*
   * *Đơn vị*: Phút
   * *Mã*: CHRTDT
@@ -539,7 +539,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{layout}{{< /katex >}}: Năng lực xử lý dàn trang (Phút/Trang)<br>
 
   {{< /details >}}
-- **Thời gian bình bản**
+- **Bình bản**
   * *Thời gian bình bản (Makeready)*
   * *Đơn vị*: Phút
   * *Mã*: CHRTBB
@@ -549,7 +549,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
   {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{i}Det_{makeready}{{< /katex >}}: Định mức thời gian bình bản (Phút)<br>
 
   {{< /details >}}
-- **Thời gian in thử**
+- **In thử**
   * *Thời gian in thử*
   * *Đơn vị*: Phút
   * *Mã*: CHRTIT
@@ -564,7 +564,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{cbtpr}{{< /katex >}}: Thời gian chuẩn bị in thử (Phút)<br>
 
   {{< /details >}}
-- **Thời gian RIP**
+- **RIP**
   * *Thời gian RIP (Raster Image Processor).*
   * *Đơn vị*: Phút
   * *Mã*: CHRTRIP
@@ -578,7 +578,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{rip}{{< /katex >}}: Tốc độ RIP (Mặt/Phút)<br>
 
   {{< /details >}}
-- **Thời gian ghi hiện bản**
+- **Ghi hiện bản**
   * *Thời gian ghi hiện bản (Platemaking).*
   * *Đơn vị*: Phút
   * *Mã*: CHRTPLM
@@ -607,17 +607,17 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
   * *Kí hiệu*: {{< katex >}}\mathcal{C}{\Sigma}PPR{{< /katex >}}
   * *Công thức* :{{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt} + \mathcal{C}\mathscr{pp}Ktr_{img} + \mathcal{C}\mathscr{pp}T_{layout} + \mathcal{C}\mathscr{pp}Makeready + \mathcal{C}\mathscr{pp}test_print + \mathcal{C}\mathscr{pp}rip + \mathcal{C}\mathscr{pp}platemaking + \mathcal{C}\mathscr{i}Other_{preprocessing}{{< /katex >}}
 
-  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt}{{< /katex >}}: Thời gian soát lỗi, kiểm tra file chữ (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{img}{{< /katex >}}: Thời gian xử lý ảnh, kiểm tra file ảnh (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}T_{layout}{{< /katex >}}: Thời gian dàn trang (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}Makeready{{< /katex >}}: Thời gian bình bản (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}test_print{{< /katex >}}: Thời gian in thử (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}rip{{< /katex >}}: Thời gian RIP (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pp}platemaking{{< /katex >}}: Thời gian ghi hiện bản (Phút)<br>
+  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt}{{< /katex >}}: Soát lỗi, kiểm tra file chữ (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{img}{{< /katex >}}: Xử lý ảnh, kiểm tra file ảnh (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}T_{layout}{{< /katex >}}: Dàn trang (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}Makeready{{< /katex >}}: Bình bản (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}test_print{{< /katex >}}: In thử (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}rip{{< /katex >}}: RIP (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pp}platemaking{{< /katex >}}: Ghi hiện bản (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Other_{preprocessing}{{< /katex >}}: Thời gian chế bản khác (Phút)<br>
 
   {{< /details >}}
-- **Thời gian in bìa**
+- **In bìa**
   * *Thời gian in bìa trong quá trình sản xuất*
   * *Đơn vị*: Phút
   * *Mã*: CHRPRCOV
@@ -632,7 +632,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{M}\mathscr{i}PrterCov_{side}{{< /katex >}}: Số mặt máy in bìa hỗ trợ (Mặt)<br>
 
   {{< /details >}}
-- **Thời gian in ruột**
+- **In ruột**
   * *Thời gian in ruột trong quá trình sản xuất*
   * *Đơn vị*: Phút
   * *Mã*: CHRPRCON
@@ -664,12 +664,12 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
   * *Kí hiệu*: {{< katex >}}\mathcal{C}{\Sigma}PRT{{< /katex >}}
   * *Công thức* :{{< katex >}}\mathcal{C}\mathscr{pr}P_{cover} + \mathcal{C}\mathscr{pr}P_{content} + \mathcal{C}\mathscr{i}Other_{printing}{{< /katex >}}
 
-  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: Thời gian in bìa (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: Thời gian in ruột (Phút)<br>
+  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}: In bìa (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{pr}P_{content}{{< /katex >}}: In ruột (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Other_{printing}{{< /katex >}}: Thời gian in khác (Phút)<br>
 
   {{< /details >}}
-- **Thời gian cán màng**
+- **Cán màng**
   * *Công thức tính thời gian cán màng*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGCM
@@ -681,7 +681,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{processing}{{< /katex >}}: Tốc độ cán màng (m/Phút)<br>
 
   {{< /details >}}
-- **Thời gian pha cắt bìa**
+- **Pha cắt bìa**
   * *Công thức tính thời gian pha cắt bìa*
   * *Đơn vị*: Phút
   * *Mã*: CHRKFPB
@@ -695,7 +695,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{M}\mathscr{c}knife_phase_mod{cover}{{< /katex >}}: Hệ số pha cắt bìa (đơn vị)<br>
 
   {{< /details >}}
-- **Thời gian pha cắt ruột**
+- **Pha cắt ruột**
   * *Công thức tính thời gian pha cắt ruột*
   * *Đơn vị*: Phút
   * *Mã*: CHRKFPR
@@ -709,7 +709,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}DetPackHeight_{content}{{< /katex >}}: Chiều cao tối đa của chồng cắt - ruột (CM)<br>
 
   {{< /details >}}
-- **Thời gian gấp sách**
+- **Gấp sách**
   * *Công thức tính thời gian gấp sách*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGGS
@@ -723,7 +723,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{Foldingmachineprep}{{< /katex >}}: Thời gian chuẩn bị máy gấp sách (Phút)<br>
 
   {{< /details >}}
-- **Thời gian bắt tay sách**
+- **Bắt tay sách**
   * *Thời gian bắt tay sách, dùng máy kỵ mã liên hợp*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGKBTS
@@ -736,7 +736,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Collating}{{< /katex >}}: Thời gian chuẩn bị bắt tay sách (Phút)<br>
 
   {{< /details >}}
-- **Thời gian khâu chỉ**
+- **Khâu chỉ**
   * *Công thức tính thời gian khâu chỉ*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGKC
@@ -751,7 +751,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingMachinePrep}{{< /katex >}}: Thời gian chuẩn bị máy khâu chỉ (Phút)<br>
 
   {{< /details >}}
-- **Thời gian vào keo**
+- **Vào keo**
   * *Thời gian vào keo*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGVK
@@ -764,8 +764,8 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Glue}{{< /katex >}}: Thời gian chuẩn bị vào keo (Phút)<br>
 
   {{< /details >}}
-- **Thời gian vào bìa**
-  * *Thời gian vào keo*
+- **Vào bìa**
+  * *Thời gian vào bìa*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGV
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}
@@ -777,7 +777,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Covering}{{< /katex >}}: Thời gian chuẩn bị vào bìa (Phút)<br>
 
   {{< /details >}}
-- **Thời gian xén 3 mặt**
+- **Xén 3 mặt**
   * *Thời gian xén 3 mặt*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGXEN
@@ -790,7 +790,7 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
 {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Trim}{{< /katex >}}: Thời gian chuẩn bị vào bìa, xén 3 mặt (Phút)<br>
 
   {{< /details >}}
-- **Thời gian đóng gói**
+- **Đóng gói**
   * *Thời gian đóng gói*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGDG
@@ -820,17 +820,17 @@ Khâu chỉ bìa keo nhiệt là phương pháp gia công sách phổ biến, s�
   * *Kí hiệu*: {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}
   * *Công thức* :{{< katex >}}\mathcal{C}\mathscr{i}Lamination + \mathcal{C}\mathscr{i}KnifePhase_{cover} + \mathcal{C}\mathscr{i}KnifePhase_{content} + \mathcal{C}\mathscr{i}Folding + \mathcal{C}\mathscr{i}Collating + \mathcal{C}\mathscr{i}Sewing + \mathcal{C}\mathscr{i}Stapling + \mathcal{C}\mathscr{i}Glue + \mathcal{C}\mathscr{i}Covering + \mathcal{C}\mathscr{i}Trim + \mathcal{C}\mathscr{i}Packaging + \mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}
 
-  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: Thời gian cán màng (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: Thời gian pha cắt bìa (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: Thời gian pha cắt ruột (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: Thời gian gấp sách (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: Thời gian bắt tay sách (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: Thời gian khâu chỉ (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: Thời gian đóng ghim (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: Thời gian vào keo (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: Thời gian vào bìa (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: Thời gian xén 3 mặt (Phút)<br>
-{{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: Thời gian đóng gói (Phút)<br>
+  {{< details "Thành Phần" >}}{{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}: Cán màng (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}: Pha cắt bìa (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: Pha cắt ruột (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: Gấp sách (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: Bắt tay sách (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: Khâu chỉ (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: Đóng ghim (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: Vào keo (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: Vào bìa (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: Xén 3 mặt (Phút)<br>
+{{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: Đóng gói (Phút)<br>
 {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: Thời gian hoàn thiện khác (Phút)<br>
 
   {{< /details >}}

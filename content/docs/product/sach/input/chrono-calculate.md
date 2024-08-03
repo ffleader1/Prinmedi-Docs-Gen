@@ -13,43 +13,43 @@ Dưới đây là những kết quả tính toán liên quan tới giá trị th
 ## Thời gian chế bản
 **Tính toán thời gian chế bản**
 
-- **Thời gian soát lỗi, kiểm tra file chữ**
+- **Soát lỗi, kiểm tra file chữ**
   * *Thời gian soát lỗi, kiểm tra file chữ*
   * *Đơn vị*: Phút
   * *Mã*: CHRKTT
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{txt}{{< /katex >}}
 
-- **Thời gian xử lý ảnh, kiểm tra file ảnh**
+- **Xử lý ảnh, kiểm tra file ảnh**
   * *Thời gian xử lý ảnh, kiểm tra file ảnh*
   * *Đơn vị*: Phút
   * *Mã*: CHRKTI
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}Ktr_{img}{{< /katex >}}
 
-- **Thời gian dàn trang**
+- **Dàn trang**
   * *Thời gian dàn trang (layout)*
   * *Đơn vị*: Phút
   * *Mã*: CHRTDT
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}T_{layout}{{< /katex >}}
 
-- **Thời gian bình bản**
+- **Bình bản**
   * *Thời gian bình bản (Makeready)*
   * *Đơn vị*: Phút
   * *Mã*: CHRTBB
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}Makeready{{< /katex >}}
 
-- **Thời gian in thử**
+- **In thử**
   * *Thời gian in thử*
   * *Đơn vị*: Phút
   * *Mã*: CHRTIT
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}test_print{{< /katex >}}
 
-- **Thời gian RIP**
+- **RIP**
   * *Thời gian RIP (Raster Image Processor).*
   * *Đơn vị*: Phút
   * *Mã*: CHRTRIP
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pp}rip{{< /katex >}}
 
-- **Thời gian ghi hiện bản**
+- **Ghi hiện bản**
   * *Thời gian ghi hiện bản (Platemaking).*
   * *Đơn vị*: Phút
   * *Mã*: CHRTPLM
@@ -70,13 +70,13 @@ Dưới đây là những kết quả tính toán liên quan tới giá trị th
 ## Thời gian in
 **Tính toán thời gian in**
 
-- **Thời gian in bìa**
+- **In bìa**
   * *Thời gian in bìa trong quá trình sản xuất*
   * *Đơn vị*: Phút
   * *Mã*: CHRPRCOV
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{pr}P_{cover}{{< /katex >}}
 
-- **Thời gian in ruột**
+- **In ruột**
   * *Thời gian in ruột trong quá trình sản xuất*
   * *Đơn vị*: Phút
   * *Mã*: CHRPRCON
@@ -97,67 +97,67 @@ Dưới đây là những kết quả tính toán liên quan tới giá trị th
 ## Thời gian hoàn thiện
 **Tính toán thời gian hoàn thiện**
 
-- **Thời gian cán màng**
+- **Cán màng**
   * *Công thức tính thời gian cán màng*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGCM
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Lamination{{< /katex >}}
 
-- **Thời gian pha cắt bìa**
+- **Pha cắt bìa**
   * *Công thức tính thời gian pha cắt bìa*
   * *Đơn vị*: Phút
   * *Mã*: CHRKFPB
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{cover}{{< /katex >}}
 
-- **Thời gian pha cắt ruột**
+- **Pha cắt ruột**
   * *Công thức tính thời gian pha cắt ruột*
   * *Đơn vị*: Phút
   * *Mã*: CHRKFPR
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}
 
-- **Thời gian gấp sách**
+- **Gấp sách**
   * *Công thức tính thời gian gấp sách*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGGS
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}
 
-- **Thời gian bắt tay sách**
+- **Bắt tay sách**
   * *Thời gian bắt tay sách, dùng máy kỵ mã liên hợp*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGKBTS
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}
 
-- **Thời gian khâu chỉ**
+- **Khâu chỉ**
   * *Công thức tính thời gian khâu chỉ*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGKC
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}
 
-- **Thời gian đóng ghim**
+- **Đóng ghim**
   * *Công thức tính thời gian đóng ghim*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGH
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}
 
-- **Thời gian vào keo**
+- **Vào keo**
   * *Thời gian vào keo*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGVK
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}
 
-- **Thời gian vào bìa**
-  * *Thời gian vào keo*
+- **Vào bìa**
+  * *Thời gian vào bìa*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGV
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}
 
-- **Thời gian xén 3 mặt**
+- **Xén 3 mặt**
   * *Thời gian xén 3 mặt*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGXEN
   * *Kí hiệu*: {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}
 
-- **Thời gian đóng gói**
+- **Đóng gói**
   * *Thời gian đóng gói*
   * *Đơn vị*: Phút
   * *Mã*: CHRTGDG
