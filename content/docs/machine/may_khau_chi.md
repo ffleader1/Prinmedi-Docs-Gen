@@ -12,7 +12,7 @@ Máy khâu chỉ là thiết bị được sử dụng để đóng gáy các t�
 
 # Thông Số
 
-- **Tốc độ chuẩn bị máy khâu chỉ**
+- **Thời gian chuẩn bị máy khâu chỉ**
   * *Định mức thời gian chuẩn bị máy khâu chỉ*
   * *Đơn vị*: Phút
 
