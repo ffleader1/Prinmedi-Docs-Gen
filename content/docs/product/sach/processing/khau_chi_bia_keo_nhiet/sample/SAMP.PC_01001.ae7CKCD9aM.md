@@ -174,7 +174,7 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 * Thời gian chuẩn bị máy gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Foldingmachineprep}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ máy gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Foldingmachinefin}{{< /katex >}}: 1,600 Tay sách/Phút
+* Tốc độ máy gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Foldingmachinefin}{{< /katex >}}: 9,000 Tay sách/Phút
 
 
 * Tốc độ chuẩn bị và cắt một nhát thực tế - bìa - {{< katex >}}\mathcal{C}\mathscr{i}DetKnifePhase_{cover}{{< /katex >}}: 1 Chồng/Phút
@@ -192,13 +192,13 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 * Thời gian chuẩn bị bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Collating}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Collating}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Collating}{{< /katex >}}: 1,600 Cuốn/Giờ
 
 
 * Thời gian chuẩn bị máy khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingMachinePrep}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ máy khâu chỉghim - {{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingachineSpd}{{< /katex >}}: 1,000 Tờ/Giờ
+* Tốc độ máy khâu chỉghim - {{< katex >}}\mathcal{C}\mathscr{i}Det_{SewingachineSpd}{{< /katex >}}: 1,600 Tờ/Giờ
 
 
 * Thời gian chuẩn bị máy đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Det_{StapleMachinePrep}{{< /katex >}}: 20 Phút
@@ -210,19 +210,19 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 * Thời gian chuẩn bị vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Glue}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Glue}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Glue}{{< /katex >}}: 1,600 Cuốn/Giờ
 
 
 * Thời gian chuẩn bị vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Covering}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Covering}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Covering}{{< /katex >}}: 1,600 Cuốn/Giờ
 
 
 * Thời gian chuẩn bị vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Prep_{Trim}{{< /katex >}}: 15 Phút
 
 
-* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Trim}{{< /katex >}}: 1,000 Cuốn/Giờ
+* Tốc độ vào bìa, xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Det_{Trim}{{< /katex >}}: 1,600 Cuốn/Giờ
 
 
 * Số sách mỗi gói - {{< katex >}}\mathcal{C}\mathscr{i}NoBookPerPack{{< /katex >}}: 50 Cuốn
@@ -396,25 +396,25 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 * Pha cắt ruột - {{< katex >}}\mathcal{C}\mathscr{i}KnifePhase_{content}{{< /katex >}}: 17 Phút
 
 
-* Gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 51 Giờ 50 Phút
+* Gấp sách - {{< katex >}}\mathcal{C}\mathscr{i}Folding{{< /katex >}}: 11 Giờ 41 Phút
 
 
-* Bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 10 Giờ 15 Phút
+* Bắt tay sách - {{< katex >}}\mathcal{C}\mathscr{i}Collating{{< /katex >}}: 7 Giờ 30 Phút
 
 
-* Khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 2 Giờ 35 Phút
+* Khâu chỉ - {{< katex >}}\mathcal{C}\mathscr{i}Sewing{{< /katex >}}: 65 Phút
 
 
 * Đóng ghim - {{< katex >}}\mathcal{C}\mathscr{i}Stapling{{< /katex >}}: 0 Phút
 
 
-* Vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 10 Giờ 15 Phút
+* Vào keo - {{< katex >}}\mathcal{C}\mathscr{i}Glue{{< /katex >}}: 7 Giờ 30 Phút
 
 
-* Vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 10 Giờ 15 Phút
+* Vào bìa - {{< katex >}}\mathcal{C}\mathscr{i}Covering{{< /katex >}}: 7 Giờ 30 Phút
 
 
-* Xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 10 Giờ 15 Phút
+* Xén 3 mặt - {{< katex >}}\mathcal{C}\mathscr{i}Trim{{< /katex >}}: 7 Giờ 30 Phút
 
 
 * Đóng gói - {{< katex >}}\mathcal{C}\mathscr{i}Packaging{{< /katex >}}: 8 Giờ 29 Phút
@@ -423,10 +423,10 @@ url: /sach/khau_chi_bia_keo_nhiet/SAMP.PC_01001.ae7CKCD9aM
 * Thời gian hoàn thiện khác - {{< katex >}}\mathcal{C}\mathscr{i}Other_{completion}{{< /katex >}}: 30 Phút
 
 
-* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 103 Giờ 27 Phút
+* Tổng thời gian hoàn thiện - {{< katex >}}\mathcal{C}{\Sigma}COM{{< /katex >}}: 48 Giờ 48 Phút
 
 
-* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 141 Giờ 43 Phút
+* Tổng thời gian sản xuất - {{< katex >}}\mathcal{C}{\Sigma}TOTAL{{< /katex >}}: 85 Giờ 4 Phút
 
 
 
